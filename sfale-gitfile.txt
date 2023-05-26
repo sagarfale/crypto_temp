@@ -1,0 +1,6 @@
+{
+  "name": "Sagar's Test Pool",
+  "description": "Thomas's test pool to test hardware wallet pool registrations.",
+  "ticker": "SFALE",
+  "homepage": "https://example.com"
+}
